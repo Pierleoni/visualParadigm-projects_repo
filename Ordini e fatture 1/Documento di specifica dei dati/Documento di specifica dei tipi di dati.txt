@@ -1,0 +1,16 @@
+Documento di specifica dei tipi di dati
+Indirizzo: tipo composto da iseguenti campi (tipo record):
+	- via: stringa
+	- numero civico: stringa numerica secondo standard 
+	- cap: stringa di 5 cifre numeriche 
+
+Codice Fiscale: Stringa di 16 caratteri alfanumerici secondo standard 
+
+Partita Iva: stringa numerica di 11 caratteri secondo standard 
+
+Email: Stringa secondo standard 
+
+Telefono: Stringa numerica secondo standard 
+
+StatoOrdine: tipo enumerativo a valori {in preparazione, inviato, da saldare. saldato}
+
