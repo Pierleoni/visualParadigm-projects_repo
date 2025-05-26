@@ -1,6 +1,7 @@
 
 from TipiDidati import *
 from datetime import date
+
 class Impiegato:
     _name:str
     _lastname:str 
